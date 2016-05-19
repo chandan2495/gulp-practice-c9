@@ -1,0 +1,22 @@
+{
+  "name": "gulp-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chandan2495/gulp-practice-c9.git"
+  },
+  "author": "chandan2495@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chandan2495/gulp-practice-c9/issues"
+  },
+  "homepage": "https://github.com/chandan2495/gulp-practice-c9#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
